@@ -1,0 +1,15 @@
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\bin\Debug\net6.0\KlasyAbstakcyjne.exe
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\bin\Debug\net6.0\KlasyAbstakcyjne.deps.json
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\bin\Debug\net6.0\KlasyAbstakcyjne.runtimeconfig.json
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\bin\Debug\net6.0\KlasyAbstakcyjne.dll
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\bin\Debug\net6.0\KlasyAbstakcyjne.pdb
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.csproj.AssemblyReference.cache
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.GeneratedMSBuildEditorConfig.editorconfig
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.AssemblyInfoInputs.cache
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.AssemblyInfo.cs
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.csproj.CoreCompileInputs.cache
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.dll
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\refint\KlasyAbstakcyjne.dll
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.pdb
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\KlasyAbstakcyjne.genruntimeconfig.cache
+S:\KlasyAbstakcyjne\KlasyAbstakcyjne\obj\Debug\net6.0\ref\KlasyAbstakcyjne.dll
